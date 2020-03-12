@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F6890547-E851-4BE0-9332-244B607F179A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".App", "src\.App\.App.csproj", "{00848544-857A-4F81-B5A2-D9EB64727203}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "src\App\App.csproj", "{00848544-857A-4F81-B5A2-D9EB64727203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".Core", "src\.Core\.Core.csproj", "{4AC52C8A-2ED7-46C3-959B-29DAD2B40FF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "src\Core\Core.csproj", "{4AC52C8A-2ED7-46C3-959B-29DAD2B40FF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".Tests", "src\.Tests\.Tests.csproj", "{F7898930-98D5-4956-A74A-D06C8D807AC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "src\Tests\Tests.csproj", "{F7898930-98D5-4956-A74A-D06C8D807AC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
